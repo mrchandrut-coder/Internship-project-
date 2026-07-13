@@ -27,8 +27,9 @@ A modern and responsive Expense Tracker web application built using HTML, CSS, J
 📂 Project Structure
 
 Expense-Tracker-Pro/
-│── index.html
-│── README.md
+
+         │── index.html
+         │── README.md
 
 ▶️ How to Run
 
