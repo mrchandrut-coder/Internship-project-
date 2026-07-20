@@ -66,6 +66,9 @@ Expense-Tracker-Pro/
 - User Authentication
 - Cloud Database Integration
 
+<img height="30"
+Src="https://img.shields.io/github/last-commit/mrchandrut-coder/Expenses-tracker?style=for-the-badge"/>
+
 👨‍💻 Author
 
 T Chandru
